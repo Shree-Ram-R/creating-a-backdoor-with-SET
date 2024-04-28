@@ -1,15 +1,23 @@
+EXP.NO:7
+DATE:
 # Creating-a-backdoor-with-SET
 
-##  AIM:
+#  AIM:
 To Create a backdoor with Social Engineering Toolkit (SET)
 
-## DESIGN STEPS:
+# ALGORITHM:
 1) Install kali linux either in partition or virtual box or in live mode
 2) Investigate on the various categories of tools as follows:
 3) Open terminal and try execute some kali linux commands
 
-## EXECUTION STEPS AND ITS OUTPUT:
+# EXECUTION STEPS AND ITS OUTPUT:
 
+## Commands:
+
+```
+sudo setoolkit
+
+```
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. 
 
 The command sudo setoolkit in the prompt gives menu with set prompt:
